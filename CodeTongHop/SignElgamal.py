@@ -1,0 +1,10 @@
+p = int(input(p = ))
+apha = int(input(apha = ))
+a = int(input(a = ))
+x = int(input(x = ))
+k = int(input(k = ))
+
+y = pow(apha, k, p)
+s = (x - ay)pow(k, -1, (p-1)) % (p-1)
+print(f'nResult ny = {y}')
+print(f's = {s}')
